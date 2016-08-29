@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Folder FolderName="XML Files" ExtStr="xml;cml;math;rdf;smil;svg;wml">
+		<File FilePath="IENC_FC_20.xml" HomeFolder="Yes"/>
+		<File FilePath="IENC_FC_21.xml" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="XSL Files" ExtStr="xsl;xslt">
+		<File FilePath="attdecode.xslt" HomeFolder="Yes"/>
+		<File FilePath="s57attributes.xslt" HomeFolder="Yes"/>
+		<File FilePath="s57expectedinput.xslt" HomeFolder="Yes"/>
+		<File FilePath="s57objectclasses.xslt" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery"/>
+	<Folder FolderName="HTML Files" ExtStr="html;htm;xhtml;asp"/>
+	<Folder FolderName="DTD/Schemas" ExtStr="dtd;dcd;xdr;biz;xsd">
+		<File FilePath="IENC_FC_20.xsd" HomeFolder="Yes"/>
+		<File FilePath="IENC_FC_21.xsd" HomeFolder="Yes"/>
+	</Folder>
+	<Folder FolderName="Entities" ExtStr="ent"/>
+</Project>
